@@ -1,4 +1,4 @@
-package mopk;
+package org.mopk;
 
 /**
  * Hello world!

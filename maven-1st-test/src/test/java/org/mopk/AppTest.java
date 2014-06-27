@@ -1,4 +1,4 @@
-package mopk;
+package org.mopk;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
